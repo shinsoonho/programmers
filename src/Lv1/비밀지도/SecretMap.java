@@ -15,13 +15,12 @@ public class SecretMap {
             }
             result[i] = sb.reverse().toString();
         }
-
         return result;
     }
 
     private static void print(String[] result) {
         for (int i = 0; i<result.length; i++) {
-            System.out.print(result[i]);
+            System.out.println(result[i] + " ");
         }
         System.out.println();
     }
