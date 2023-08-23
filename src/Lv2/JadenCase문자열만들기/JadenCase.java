@@ -1,4 +1,4 @@
-package Lv2;
+package Lv2.JadenCase문자열만들기;
 
 public class JadenCase {
 
