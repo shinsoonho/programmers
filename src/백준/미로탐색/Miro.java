@@ -80,5 +80,4 @@ public class Miro {
 
         System.out.println(bfs(0, 0));
     }
-
 }
